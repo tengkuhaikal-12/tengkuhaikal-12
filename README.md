@@ -2,6 +2,8 @@
 
 I'm a Software Engineering undergraduate at **Universiti Malaya (UM)** based in Kuala Lumpur, Malaysia. I love building practical, modern web applications, exploring full-stack development, and turning creative ideas into functional digital solutions.
 
+portfolio: [tmhta.netlify.app]
+
 ---
 
 ## 💻 Tech Stack & Tools
