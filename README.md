@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Tengku Mohamad Haikal 👋
 
-<!--
-**tengkuhaikal-12/tengkuhaikal-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering undergraduate at **Universiti Malaya (UM)** based in Kuala Lumpur, Malaysia. I love building practical, modern web applications, exploring full-stack development, and turning creative ideas into functional digital solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack & Tools
+
+* **Languages:** PHP, JavaScript, TypeScript, Python, HTML/CSS
+* **Frameworks & Libraries:** Laravel, React, Inertia.js, Node.js, Express, Tailwind CSS, Firebase
+* **Databases & Storage:** PostgreSQL, MySQL, MongoDB
+* **DevOps & Environment:** Git, Docker, Linux, Cloudflare, Vite, Laragon
+
+---
+
+## 🚀 Featured Projects & Experience
+
+* **Polaroid E-Commerce Platform (`polaroidku`):** A custom web app built with Laravel and React featuring photo editing templates and secure payment integration.
+* **MyProjek® 2.0 (Internship at ICU JPM):** Authored technical documentation and user manuals for sub-modules D1 through D10 during my software engineering internship at Pocket Data (M) Sdn. Bhd., serving on-site at the Implementation Coordination Unit, Prime Minister's Department.
+* **Smart Information Broadcast System (SIBS):** A centralized web dashboard and TV display application designed to unify real-time activity updates with physical announcement boards.
+* **Battlestation Rater:** A retro-pixel web app built with Python Flask and interactive drag-and-drop file uploads.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haikaltengku836&show_icons=true&theme=radical&hide_border=true" alt="Haikal's GitHub Stats" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+* **Location:** Kuala Lumpur, Malaysia
+* **Education:** Bachelor of Computer Science (Software Engineering), Universiti Malaya (UM)
