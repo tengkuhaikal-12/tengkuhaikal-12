@@ -25,11 +25,11 @@ I'm a Software Engineering undergraduate at **Universiti Malaya (UM)** based in 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haikaltengku836&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tengkuhaikal-12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haikaltengku836&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengkuhaikal-12&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
